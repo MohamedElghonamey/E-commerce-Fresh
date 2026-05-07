@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Fresh/static/css/main.dd3b8786.css",
+    "main.js": "/E-commerce-Fresh/static/js/main.d97f5715.js",
+    "static/js/453.4297e0f3.chunk.js": "/E-commerce-Fresh/static/js/453.4297e0f3.chunk.js",
+    "static/media/emblem-Paypal.jpg": "/E-commerce-Fresh/static/media/emblem-Paypal.8933d502ae49871d2db1.jpg",
+    "static/media/fa-solid-900.ttf": "/E-commerce-Fresh/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/slider-image-1.jpeg": "/E-commerce-Fresh/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/grocery-banner.png": "/E-commerce-Fresh/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/E-commerce-Fresh/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/slider-image-3.jpeg": "/E-commerce-Fresh/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/E-commerce-Fresh/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/E-commerce-Fresh/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/E-commerce-Fresh/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce-Fresh/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/apple-app-store-logo.jpg": "/E-commerce-Fresh/static/media/apple-app-store-logo.fe019baa27a56b8817a7.jpg",
+    "static/media/MasterCard_Logo.svg.png": "/E-commerce-Fresh/static/media/MasterCard_Logo.svg.654f470c44810125552e.png",
+    "static/media/fa-regular-400.ttf": "/E-commerce-Fresh/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/E-commerce-Fresh/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce-Fresh/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/google-play-badge-english-get-it-on-google-play7825.logowik.com.webp": "/E-commerce-Fresh/static/media/google-play-badge-english-get-it-on-google-play7825.logowik.com.ad19bbbf57a91ac07dc5.webp",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce-Fresh/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/E-commerce-Fresh/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce-Fresh/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce-Fresh/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce-Fresh/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce-Fresh/index.html",
+    "main.dd3b8786.css.map": "/E-commerce-Fresh/static/css/main.dd3b8786.css.map",
+    "main.d97f5715.js.map": "/E-commerce-Fresh/static/js/main.d97f5715.js.map",
+    "453.4297e0f3.chunk.js.map": "/E-commerce-Fresh/static/js/453.4297e0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3b8786.css",
+    "static/js/main.d97f5715.js"
+  ]
+}
