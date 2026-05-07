@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-commerce-Fresh/static/css/main.dd3b8786.css",
-    "main.js": "/E-commerce-Fresh/static/js/main.d97f5715.js",
+    "main.js": "/E-commerce-Fresh/static/js/main.55bb996e.js",
     "static/js/453.4297e0f3.chunk.js": "/E-commerce-Fresh/static/js/453.4297e0f3.chunk.js",
     "static/media/emblem-Paypal.jpg": "/E-commerce-Fresh/static/media/emblem-Paypal.8933d502ae49871d2db1.jpg",
     "static/media/fa-solid-900.ttf": "/E-commerce-Fresh/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -26,11 +26,11 @@
     "static/media/slick.woff": "/E-commerce-Fresh/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-commerce-Fresh/index.html",
     "main.dd3b8786.css.map": "/E-commerce-Fresh/static/css/main.dd3b8786.css.map",
-    "main.d97f5715.js.map": "/E-commerce-Fresh/static/js/main.d97f5715.js.map",
+    "main.55bb996e.js.map": "/E-commerce-Fresh/static/js/main.55bb996e.js.map",
     "453.4297e0f3.chunk.js.map": "/E-commerce-Fresh/static/js/453.4297e0f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd3b8786.css",
-    "static/js/main.d97f5715.js"
+    "static/js/main.55bb996e.js"
   ]
 }
